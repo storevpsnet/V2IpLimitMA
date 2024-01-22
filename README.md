@@ -107,6 +107,11 @@ As you know, this program must always be running, so there are many ways to do t
 First, hit the screen command<br>
 
 ```bash
+cd V2IpLimit &&
+cd Marzban ;
+```
+
+```bash
 screen
 ```
 
